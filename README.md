@@ -1,8 +1,5 @@
 ### Olá! Eu sou Ronald Mickael
 
-
-
-
 <div>
   <a href="https://github.com/Ronald238">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald238&count_private=true&show_icons=true&theme=transparent&card_width=450#gh-dark-mode-only)"/>
