@@ -22,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ MEU_SEGREDO_DE_RUBI.PAT }}
