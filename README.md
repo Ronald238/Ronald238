@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/Ronald238">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald238&count_private=true&show_icons=true&theme=transparent&card_width=450#gh-dark-mode-only)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald238&count_private=true&show_icons=true&theme=radical&card_width=345"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald238&count_private=true&show_icons=true&theme=transparent&card_width=345"/>
 <div>
 
 <div>
@@ -18,7 +18,7 @@
 ### Repositorios:
 
 <a href="https://github.com/Ronald238">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=TucuJuris_Crawler&count_private=true&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=TucuJuris_Crawler&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
 <a href="https://github.com/Ronald238">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=Ronald238&count_private=true&show_icons=true&theme=midnight-purple"/>
