@@ -14,9 +14,9 @@
           
 ### Repositorios:
 
-<a href="https://github.com/Ronald238">
+<a href="https://github.com/Ronald238/TucuJuris_Crawler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=TucuJuris_Crawler&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
-<a href="https://github.com/Ronald238">
+<a href="https://github.com/Ronald238/Ronald238">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=Ronald238&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
