@@ -1,6 +1,6 @@
-<h2 align="center">Olá! Eu sou Ronald Mickael <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40"></h2>
+<h2 align="center">Olá! Eu sou Ronald Mickael
   
-## 
+#
 
 <div>
   <p align = "center">
