@@ -7,11 +7,8 @@
   <a href="https://github.com/Ronald238">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald238&count_private=true&show_icons=true&theme=transparent&card_width=450#gh-dark-mode-only)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald238&count_private=true&show_icons=true&theme=transparent&card_width=390"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald238&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent&line_height=0" />
 <div>
-  
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald238&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent&line_height=0" />
-</p> 
 
 <div>
   <a href="https://github.com/Ronald238">
