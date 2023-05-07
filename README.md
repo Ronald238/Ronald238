@@ -12,7 +12,7 @@
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
-#
+
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="45"></h2>
 
@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
    
-#
-  
+
 <h2 align="center">My Github Stats <img src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="60"></h2>
 
 <div align="center">
@@ -41,12 +40,10 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald238&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent&line_height=0" />
 <div>
 
-#
 
 <h2 align="center">Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
   
-#
-  
+
 <a href="https://github.com/Ronald238/TucuJuris_Crawler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=TucuJuris_Crawler&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
