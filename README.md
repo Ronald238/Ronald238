@@ -58,3 +58,12 @@
 <a href="https://github.com/Ronald238/Ronald238">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=Ronald238&show_owner=true&count_private=true&show_icons=true&theme=midnight-purple" width="400"></h2>
 </a>
+</div>
+
+<h2 align="center">Visitor Count <img src="https://static.wikia.nocookie.net/soul-knight/images/d/d9/Trap_Master_0.gif/revision/latest?cb=20230113051838" width="60"></h2>
+<div align="center"> 
+<a href="https://github.com/Ronald238"><img src="https://profile-counter.glitch.me/Ronald238/count.svg"></a>
+    
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1FF773&size=25&center=true&vCenter=true&width=450&lines=Thank+for+reading\^o^/;Check+back+often^_^"></a>
+</div>
