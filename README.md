@@ -50,3 +50,9 @@
 <a href="https://github.com/Ronald238/Ronald238">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=Ronald238&show_owner=true&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
+
+  
+</h2>
+<p align="center">
+  <img src="https://github.com/Ronald238/Ronald238/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
