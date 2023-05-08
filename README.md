@@ -4,7 +4,6 @@
 <h2 align="center">Technology Stack <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403" width="60"></h2>
 
 <div align="center">
-  <a href="https://github.com/Ronald238">
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
