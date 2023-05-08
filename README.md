@@ -20,10 +20,10 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="45"></h2>
 
 <div align="center">
-  <a href="https://github.com/Ronald238">
+  <a href="https://www.linkedin.com/in/ronald-mickael-90755b263">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ronald238">
+  <a href="mailto:ContatoRonaldMickael@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Ronald238">
