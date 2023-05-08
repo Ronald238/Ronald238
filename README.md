@@ -1,5 +1,5 @@
 <div>
-<p><a href="https://github.com/Ronald238"><img src="https://github.com/Ronald238/Ronald238/tree/main/Imagem" width="100%" height="auto"/></a></p>
+<p><a href="https://github.com/Ronald238/Ronald238/tree/main/Imagem"><img src="https://github.com/Ronald238/Ronald238/blob/main/Imagem/github%20imagem.jpg" width="100%" height="auto"/></a></p>
 </div>
 
 <h2 align="center">Technology Stack <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403" width="60"></h2>
