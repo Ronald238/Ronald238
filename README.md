@@ -54,5 +54,5 @@
   
 </h2>
 <p align="center">
-  <img src="https://github.com/Ronald238/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Ronald238/Ronald238/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
