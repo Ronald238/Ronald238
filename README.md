@@ -7,6 +7,11 @@
 </div>
 <h2 align="center">Technology Stack <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403" width="60"></h2>
 
+<table align="right">
+ <tr><td><a href="https://github.com/Ronald238/Ronald238/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Ronald238/Ronald238/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
+
 <div align="center">
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
