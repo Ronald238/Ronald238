@@ -29,8 +29,13 @@
   <a href="https://github.com/Ronald238">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-   
 
+<div>
+<h2 align="center">My Contribution Graph <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee5a9f65-7ffa-43db-ae78-62b9993f0e64/deefopw-7cfdf1ab-a989-4110-b12a-70d421bb0b0d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlNWE5ZjY1LTdmZmEtNDNkYi1hZTc4LTYyYjk5OTNmMGU2NFwvZGVlZm9wdy03Y2ZkZjFhYi1hOTg5LTQxMTAtYjEyYS03MGQ0MjFiYjBiMGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YJmBpOyCW14QLeNeSgsslNB2qq9R-cjfDgS0g-_EO5A" width="60"></h2>
+<p align="center">
+<img src="https://github.com/Ronald238/Ronald238/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<div>
+  
 <h2 align="center">My Github Stats <img src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="60"></h2>
 
 <div align="center">
@@ -50,9 +55,3 @@
 <a href="https://github.com/Ronald238/Ronald238">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronald238&repo=Ronald238&show_owner=true&count_private=true&show_icons=true&theme=midnight-purple"/>
 </a>
-
-  
-</h2>
-<p align="center">
-  <img src="https://github.com/Ronald238/Ronald238/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
