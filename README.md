@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1FF773&size=25&center=true&vCenter=true&width=450&lines=Hi,+I'am+Ronald+Mickael;Computer+Engineering+Student;Brazilian+Back-end+Developer;He/Him"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1FF773&size=25&center=true&vCenter=true&width=450&lines=Hi,+I'am+Ronald+Mickael;Software+Engineering+Student;Brazilian+Back-end+Developer;He/Him"></a>
 </div>
 <h2 align="center">Technology Stack <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403" width="60"></h2>
 
