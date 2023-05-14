@@ -1,6 +1,5 @@
 <div>
 <p><a href="https://github.com/Ronald238/Ronald238/blob/main/header_.png"><img src="https://github.com/Ronald238/Ronald238/blob/main/header_.png" width="100%" height="auto"/></a></p> 
-
 </div>
 
 <div align="center">
