@@ -5,14 +5,15 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1FF773&size=25&center=true&vCenter=true&width=450&lines=Hi,+I'am+Ronald+Mickael;Software+Engineering+Student;Brazilian+Back-end+Developer;He/Him"></a>
 </div>
+
 <h2 align="center">Technology Stack <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403" width="60"></h2>
 
 <div align="center">
-  <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align="center" height="50" weight="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <code><img title="VScode" alt="vscode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img title="Jupyter" alt="jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
+  <code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code>
+  <code><img title="Github" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </div>
 
 
@@ -48,7 +49,12 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald238&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent&line_height=0"/>
 <div>
 
-
+<h2 align="center">My trophies <img src="https://static.wikia.nocookie.net/soul-knight/images/4/4f/Taoist_11.gif/revision/latest?cb=20230329123806" width="60"></h2>
+    
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ronald238&theme=dracula&no-frame=true&row=1&margin-w=20&no-bg=true"></a>
+</div>
+    
 <h2 align="center">Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
   
 
