@@ -51,10 +51,7 @@
 
 <h2 align="center">My trophies <img src="https://static.wikia.nocookie.net/soul-knight/images/4/4f/Taoist_11.gif/revision/latest?cb=20230329123806" width="60"></h2>
     
-<div align="center">
-<a href="https://github.com/Ronald238">
-<img src="https://github-profile-trophy.vercel.app/?username=Ronald238&theme=dracula&no-frame=true&row=1&margin-w=20&no-bg=true"></a>
-</div>
+
     
 <h2 align="center">Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
   
