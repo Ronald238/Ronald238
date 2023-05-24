@@ -53,7 +53,7 @@
     
 <div align="center">
 <a href="https://github.com/Ronald238">
-<img src="https://github-profile-trophy.vercel.app/?username=Ronald238&theme=dracula&no-frame=true&row=1&margin-w=20&no-bg=true"></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Ronald238&theme=algolia&no-frame=true&row=1&margin-w=20&no-bg=true"></a>
 </div>
     
 <h2 align="center">Repositories <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
