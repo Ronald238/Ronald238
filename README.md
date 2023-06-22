@@ -1,6 +1,6 @@
 <div>
 <p><a href="https://github.com/Ronald238/Ronald238/blob/main/header_.png"><img src="https://github.com/Ronald238/Ronald238/blob/main/header_.png" width="100%" height="auto"/></a></p>
-</div>
+</div> 
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1FF773&size=25&center=true&vCenter=true&width=450&lines=Hi,+I'am+Ronald+Mickael;Software+Engineering+Student;Brazilian+Back-end+Developer;He/Him"></a>
